@@ -1,0 +1,12 @@
+ProjectAppointmentManagementSystem 
+
+1.PatientAppointmentManagementLibrary contains the Model classes and helper classes 
+2.patientAppointmentManagementLibrary.dll is added in the application 
+3.Input Details :
+->	input the patient details 
+->	while entering the health_problem not included all the cases(give the input as fever, cold, cancer, skincare, hairloss, heart desease, heart related) 
+-> 	for expected Date of appointment enter any date in this month till 31st may 2020.(availability of doctors is showed only for this month)
+4.In registration page displaying the doctors available in the selected department.
+5.ending the notification to doctors about the appointment.
+6.Displaying the daily appointments details 
+	
